@@ -1,3 +1,5 @@
+> **Moved.** This operator was merged, with this repository's history, into [`tercen/umap_operator`](https://github.com/tercen/umap_operator) as version 2.0.0. Development continues there; this repository is archived.
+
 # UMAP (Rust) — Tercen operator
 
 Uniform Manifold Approximation and Projection of cells, as a drop-in for the R `umap_operator`,
